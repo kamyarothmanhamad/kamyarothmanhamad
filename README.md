@@ -26,32 +26,31 @@ Here are some ideas to get you started:
 **🔭 I’m currently a 2nd‑year PhD student in 3D Computer Vision** at **CSU**, focusing on **3D human parsing** and **scene understanding**.
 
 
-**🌱 I’m currently learning** advanced neural rendering techniques and geometric deep learning for deformable object modeling :contentReference[oaicite:5]{index=5}.
+**🌱 I’m currently learning** advanced neural rendering techniques and geometric deep learning for deformable object modeling.
 
 ---
 
 - 🎓 **Position:** 2nd‑year PhD student, 3D Computer Vision @ CSU  
 - 🌐 **Affiliation:** Department of Automation, CSU  
 - 💡 **Current Projects:**  
-  - **3D Human Parsing:** Semantic and instance‑level decomposition of human shapes :contentReference[oaicite:10]{index=10}  
-  - **Scene Understanding:** 3D semantic and instance segmentation for indoor/outdoor environments :contentReference[oaicite:11]{index=11}  
+  - **3D Human Parsing:** Semantic and instance‑level decomposition of human shapes  
+  - **Scene Understanding:** 3D semantic and instance segmentation for indoor/outdoor environments {index=11}  
 - 💬 **Pronouns:** He/Him
   
 ---
 
 ## 🔍 Research Interests  
-- **Point Cloud Processing:** Denoising, completion, and enhancement of raw LiDAR/RGB‑D data :contentReference[oaicite:12]{index=12}  
-- **Geometric Deep Learning:** Graph neural networks and mesh‑based representations :contentReference[oaicite:13]{index=13}  
-- **Topological Deep Learning:** Extracting and leveraging topological features from point clouds :contentReference[oaicite:14]{index=14}  
-- **Vision–Language Models for 3D:** Open‑vocabulary scene graph prediction and multimodal embeddings :contentReference[oaicite:15]{index=15}  
-- **3D Gaussian Splatting:** Photorealistic volumetric capture using Gaussian blobs :contentReference[oaicite:16]{index=16}  
-- **Neural Radiance Fields (NeRFs):** Implicit volumetric scene modeling and rendering :contentReference[oaicite:17]{index=17}  
-- **Differentiable Rendering:** End‑to‑end trainable rendering pipelines for 3D reconstruction :contentReference[oaicite:18]{index=18}  
-- **SLAM with Deep Learning:** Robust visual odometry and mapping via learned features :contentReference[oaicite:19]{index=19}  
-- **Self‑Supervised 3D Representations:** Contrastive and generative pre‑training on 3D data :contentReference[oaicite:20]{index=20}  
+- **Point Cloud Processing:** Denoising, completion, and enhancement of raw LiDAR/RGB‑D data 
+- **Geometric Deep Learning:** Graph neural networks and mesh‑based representations  
+- **Topological Deep Learning:** Extracting and leveraging topological features from point clouds {index=14}  
+- **Vision–Language Models for 3D:** Open‑vocabulary scene graph prediction and multimodal embeddings 
+- **3D Gaussian Splatting:** Photorealistic volumetric capture using Gaussian blobs 
+- **Neural Radiance Fields (NeRFs):** Implicit volumetric scene modeling and rendering 
+- **Differentiable Rendering:** End‑to‑end trainable rendering pipelines for 3D reconstruction   
+- **SLAM with Deep Learning:** Robust visual odometry and mapping via learned features   
+- **Self‑Supervised 3D Representations:** Contrastive and generative pre‑training on 3D data  
 - **3D Semantic & Panoptic Segmentation:** Instance‑aware scene parsing at scale   
-- **4D Dynamic Scene Modeling:** Temporal evolution of geometry for dynamic environments :contentReference[oaicite:21]{index=21}  
-
+- **4D Dynamic Scene Modeling:** Temporal evolution of geometry for dynamic environments  
 
 ---
 
