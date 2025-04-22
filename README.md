@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 - **Languages:** Python, C++, CUDA  
 - **Frameworks:** PyTorch, Open3D  
 - **Tools:** Git, Docker 
+</details> 
 
 ---
 
