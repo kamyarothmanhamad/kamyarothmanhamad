@@ -44,10 +44,7 @@ Here are some ideas to get you started:
 - **Geometric Deep Learning:** Graph neural networks and mesh‑based representations  
 - **Topological Deep Learning:** Extracting and leveraging topological features from point clouds {index=14}  
 - **Vision–Language Models for 3D:** Open‑vocabulary scene graph prediction and multimodal embeddings 
-- **3D Gaussian Splatting:** Photorealistic volumetric capture using Gaussian blobs 
-- **Neural Radiance Fields (NeRFs):** Implicit volumetric scene modeling and rendering 
-- **Differentiable Rendering:** End‑to‑end trainable rendering pipelines for 3D reconstruction   
-- **SLAM with Deep Learning:** Robust visual odometry and mapping via learned features   
+- **3D Gaussian Splatting:** Photorealistic volumetric capture using Gaussian blobs  
 - **Self‑Supervised 3D Representations:** Contrastive and generative pre‑training on 3D data  
 - **3D Semantic & Panoptic Segmentation:** Instance‑aware scene parsing at scale   
 - **4D Dynamic Scene Modeling:** Temporal evolution of geometry for dynamic environments  
@@ -56,16 +53,11 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects  
 <!-- For each project, link to the repo and include a one‑sentence description. -->
-- [**NeRF‑3D‑Recon**](https://github.com/yourname/nerf-3d-recon): Implementation of Neural Radiance Fields for dynamic scene reconstruction with customizable control over geometry and appearance :contentReference[oaicite:7]{index=7}  
-- [**Mesh‑Graph‑CNN**](https://github.com/yourname/mesh-graph-cnn): Geometric deep network for point‑cloud segmentation and classification on benchmark datasets  
-- [**SLAM‑Benchmark**](https://github.com/yourname/slam-benchmark): Comparative study and evaluation suite for state‑of‑the‑art SLAM approaches  
-- [**3D‑Pose‑Estimator**](https://github.com/yourname/3d-pose-estimator): Real‑time human pose estimation and skeleton reconstruction from monocular video :contentReference[oaicite:8]{index=8}  
+
 
 ---
 
 ## 📚 Publications  
-- **Your Name**, Co‑author. “Title of Your ICCV/CVPR Paper,” *Proceedings of CVPR 2024*, pp. 1234–1243.  
-- **Your Name**, Co‑author. “Title of Your ECCV/ICCV Paper,” *Proceedings of ICCV 2023*, pp. 567–578.  
 
 ---
 
@@ -74,30 +66,20 @@ Here are some ideas to get you started:
 <summary>Click to expand</summary>
 
 - **Languages:** Python, C++, CUDA  
-- **Frameworks:** PyTorch, TensorFlow, Open3D  
-- **Tools:** Git, Docker, ROS  
-- **Concepts:** Photogrammetry, SLAM, Neural Rendering, Geometric DL  
-
-</details>  
-*Tip:* Use icons and badges to make this section visually appealing; see [Simple Icons](https://simpleicons.org/) for SVG badges :contentReference[oaicite:9]{index=9}.
+- **Frameworks:** PyTorch, Open3D  
+- **Tools:** Git, Docker 
 
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: [your.email@university.edu]  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile]  
-- 🐦 Twitter: [@yourhandle]  
+- 📧 Email: [othmankamyar@gmail.com]  
+- 🔗 LinkedIn: [linkedin.com/in/kamyarothmanhamad]  
+- 🐦 Twitter: [@KamyarOthman]  
 
 ---
-
+<!--
 ## 🔗 Quick Links  
 - 📄 [Curriculum Vitae](https://your‑university.edu/yourcv.pdf)  
-- 📊 [GitHub Stats](https://github.com/yourname/github-readme-stats)  
+- 📊 [GitHub Stats](https://github.com/yourname/github-readme-stats)  -->
 
----
 
-## Tips & Best Practices  
-1. **Keep it concise:** Aim for 200–300 lines—readers skim; make each word count :contentReference[oaicite:10]{index=10}.  
-2. **Use sections & emojis:** Improves scannability and conveys personality :contentReference[oaicite:11]{index=11}.  
-3. **Show, don’t tell:** Include GIFs/screenshots of your demos, and link to live apps if available :contentReference[oaicite:12]{index=12}.  
-4. **Keep up to date:** Regularly add new publications and projects as your PhD progresses.  
