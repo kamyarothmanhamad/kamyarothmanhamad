@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: [othmankamyar@gmail.com]  
+- 📧 Email: othmankamyar@gmail.com
 - 🔗 LinkedIn: [linkedin.com/in/kamyarothmanhamad]  
 - 🐦 Twitter: [@KamyarOthman]  
 
