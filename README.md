@@ -21,9 +21,11 @@ Here are some ideas to get you started:
   ⚠️ This repo’s name must exactly match your GitHub username to display this on your profile :contentReference[oaicite:3]{index=3}.
 -->
 
-# Hi there 👋, I’m [Your Name]
+# Hi there 👋, I’m Kamyar
 
-**🔭 I’m currently a PhD student in 3D Computer Vision** at [Your University], where I focus on reconstructing realistic 3D scenes from multi-view images and point clouds :contentReference[oaicite:4]{index=4}.
+**🔭 I’m currently a 2nd‑year PhD student in 3D Computer Vision**  
+at **CSU**, focusing on **3D human parsing** and **scene understanding**.
+
 
 **🌱 I’m currently learning** advanced neural rendering techniques and geometric deep learning for deformable object modeling :contentReference[oaicite:5]{index=5}.
 
