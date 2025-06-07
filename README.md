@@ -40,14 +40,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🔍 Research Interests  
-- **Point Cloud Processing:** Denoising, completion, and enhancement of raw LiDAR/RGB‑D data 
-- **Geometric Deep Learning:** Graph neural networks and mesh‑based representations  
-- **Topological Deep Learning:** Extracting and leveraging topological features from point clouds  
-- **Vision–Language Models for 3D:** Open‑vocabulary scene graph prediction and multimodal embeddings 
-- **3D Gaussian Splatting:** Photorealistic volumetric capture using Gaussian blobs  
-- **Self‑Supervised 3D Representations:** Contrastive and generative pre‑training on 3D data  
-- **3D Semantic & Panoptic Segmentation:** Instance‑aware scene parsing at scale   
-- **4D Dynamic Scene Modeling:** Temporal evolution of geometry for dynamic environments  
+- **Point Cloud Processing:** 
+- **Geometric Topological Deep Learning:**    
 
 ---
 
