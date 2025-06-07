@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **🔭 I’m currently a 2nd‑year PhD student in 3D Computer Vision** at **CSU**, focusing on **3D human parsing** and **scene understanding**.
 
 
-**🌱 I’m currently learning** advanced neural rendering techniques and geometric deep learning for deformable object modeling.
+**🌱 I’m currently learning** geometric and topological deep learning for understanding deformable objects  such as humans and their body parts.
 
 ---
 
