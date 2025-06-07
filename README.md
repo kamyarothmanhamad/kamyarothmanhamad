@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 🔍 Research Interests  
 - **Point Cloud Processing:** 
-- **Geometric Topological Deep Learning:**    
+- **Geometric and Topological Deep Learning:**    
 
 ---
 
