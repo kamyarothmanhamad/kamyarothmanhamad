@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🌐 **Affiliation:** Department of Automation, CSU  
 - 💡 **Current Projects:**  
   - **3D Human Parsing:** Semantic and instance‑level decomposition of human shapes  
-  - **Scene Understanding:** 3D semantic and instance segmentation for indoor/outdoor environments {index=11}  
+  - **Scene Understanding:** 3D semantic and instance segmentation for indoor/outdoor environments   
 - 💬 **Pronouns:** He/Him
   
 ---
