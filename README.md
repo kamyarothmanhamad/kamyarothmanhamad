@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Hi there 👋, I’m Kamyar
 
-**🔭 I’m currently a 2nd‑year PhD student in 3D Computer Vision** at **CSU**, focusing on **3D human parsing** and **scene understanding**.
+**🔭 I’m currently a 2nd‑year PhD student in 3D Computer Vision** at **CSU**, focusing on **3D human shape analysis** and **scene understanding**.
 
 
 **🌱 I’m currently learning** geometric and topological deep learning for understanding deformable objects  such as humans and their body parts.
