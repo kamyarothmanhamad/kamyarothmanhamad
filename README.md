@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **🔭 I’m currently a 2nd‑year PhD student in 3D Computer Vision** at **CSU**, focusing on **3D human shape analysis** and **scene understanding**.
 
 
-**🌱 I’m currently learning** geometric and topological deep learning for understanding deformable objects  such as humans and their body parts.
+**🌱 I’m currently exploring** geometric and topological deep learning for understanding deformable objects  such as humans and its body parts.
 
 ---
 
