@@ -45,11 +45,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects  
-<!-- For each project, link to the repo and include a one‑sentence description. -->
-
----
-
 ## 📚 Publications  
 1. **Part Segmentation of Human Meshes via Multi-View Human Parsing**  
    [📄 arXiv:2507.18655](https://arxiv.org/abs/2507.18655) • [💻 Code](https://github.com/kamyarothmanhamad/Human3DSegmentation)  
