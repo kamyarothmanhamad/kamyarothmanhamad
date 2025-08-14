@@ -52,9 +52,8 @@ Here are some ideas to get you started:
 
 ## 📚 Publications  
 1. **Part Segmentation of Human Meshes via Multi-View Human Parsing**  
-   *Kamyar Othman Hamad, et al.*  
    [📄 arXiv:2507.18655](https://arxiv.org/abs/2507.18655)  
-   &nbsp;&nbsp;Proposes a multi-view human parsing approach for robust part segmentation of human meshes, leveraging cross-view consistency and geometry-aware learning.
+   
 
 
 ---
