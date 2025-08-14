@@ -30,11 +30,8 @@ Here are some ideas to get you started:
 
 ---
 
-- 🎓 **Position:** 2nd‑year PhD student, 3D Computer Vision @ CSU  
-- 🌐 **Affiliation:** Department of Automation, CSU  
-- 💡 **Current Projects:**  
-  - **3D Human Parsing:** Semantic and instance‑level decomposition of human shapes  
-  - **Scene Understanding:** 3D semantic and instance segmentation for indoor/outdoor environments   
+- 🎓 **Position:** 2nd‑year PhD student, 3D Computer Vision
+- 🌐 **Affiliation:** Department of Automation, CSU   
 - 💬 **Pronouns:** He/Him
   
 ---
@@ -45,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📚 Publications  
+## 📚 Publications & Projects
 1. **Part Segmentation of Human Meshes via Multi-View Human Parsing**  
    [📄 arXiv:2507.18655](https://arxiv.org/abs/2507.18655) • [💻 Code](https://github.com/kamyarothmanhamad/Human3DSegmentation)  
    
