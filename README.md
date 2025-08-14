@@ -1,32 +1,10 @@
 
 
-<!--
-**kamyarothmanhamad/kamyarothmanhamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-  ⚠️ Rename this file to README.md
-  ⚠️ This repo’s name must exactly match your GitHub username to display this on your profile :contentReference[oaicite:3]{index=3}.
--->
-
 # Hi there 👋, I’m Kamyar
 
-**🔭 I’m currently a 2nd‑year PhD student in 3D Computer Vision** at **CSU**, focusing on **3D human shape analysis** and **scene understanding**.
+**🔭 I’m a 2nd-year PhD student in 3D Computer Vision** at **CSU**, with a focus on **point-cloud analysis**.
 
-
-**🌱 I’m currently exploring** geometric and topological deep learning for understanding deformable objects  such as humans and its body parts.
+**🌱 I develop** geometric and topological deep-learning methods to improve learned representations for downstream tasks (e.g., segmentation).
 
 ---
 
