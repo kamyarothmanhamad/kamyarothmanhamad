@@ -10,7 +10,6 @@
 
 - 🎓 **Position:** 2nd‑year PhD student, 3D Computer Vision
 - 🌐 **Affiliation:** Department of Automation, CSU   
-- 💬 **Pronouns:** He/Him
   
 ---
 
