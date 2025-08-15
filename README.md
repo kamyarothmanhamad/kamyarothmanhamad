@@ -39,7 +39,8 @@
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: [othmankamyar@gmail.com](mailto:othmankamyar@gmail.com)
+- 📧 Email: [othmankamyar@gmail.com](mailto:othmankamyar@gmail.com), [kamyarothman@csu.edu.cn](mailto:kamyarothman@csu.edu.cn)
+  - For quickest response, please use the first email.  
 - 🔗 LinkedIn: [linkedin.com/in/kamyarothmanhamad](https://www.linkedin.com/in/kamyarothmanhamad)
 - 🐦 X (formerly Twitter): [@KamyarOthman](https://twitter.com/KamyarOthman)
 
