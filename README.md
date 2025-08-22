@@ -4,7 +4,7 @@
 
 **🔭 I’m a 2nd-year PhD student in 3D Computer Vision** at **CSU**, with a focus on **point-cloud analysis**.
 
-**🌱 I develop** geometric and topological deep-learning methods to improve learned representations for downstream tasks (e.g., segmentation).
+**🌱 I develop** geometric and (_recently_) topological deep-learning methods to improve learned representations for downstream tasks (e.g., segmentation).
 
 ---
 
